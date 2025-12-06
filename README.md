@@ -128,7 +128,7 @@ SUCCESS: Data is flowing correctly from Relay!
 -   **403 Forbidden (Zerodha)**: Your API Key or Access Token is invalid or expired. The system will fall back to Mock Mode. Update `run.sh` with fresh credentials.
 -   **No Data in AmiBroker**: Verify that the symbol names in `symbols.yaml` match exactly what AmiBroker expects or what Zerodha provides.
 
-🙏 Credits / Acknowledgments
+## 🙏 Credits / Acknowledgments
 
 WS-RTD Plugin by NSM51 — for providing the WebSocket-to-AmiBroker interface and ongoing beta support.
 
